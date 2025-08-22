@@ -152,28 +152,28 @@ https://joy.nx-pc.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8
 https://joy.nx-pc.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
 #EXTINF:0 tvg-id="CINE HISPANO.ar" tvg-name="CINE HISPANO" CUID="78" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345736/dustkhfhwtbduu0zrl5n.png" group-title="Argentina TV",CINE HISPANO
 https://joy.nx-pc.edge-apps.net/hls/pf7b-4746p-o4dp5-5angp.m3u8
-Hola TV
-https://joy.web-media.edge-apps.net/hls/cl7lf-54530-2egee-p14da.m3u8
-Mas Chic
-https://joy.web-media.edge-apps.net/hls/f9em3-fn7h4-a75fc-c056h.m3u8
-El Gourmet
-https://joy.web-media.edge-apps.net/hls/hhdd2-k3ik5-m2ha3-1b8pb.m3u8
-Discovery Home&Health
-https://joy.web-media.edge-apps.net/hls/5ea6f-88j6g-p7811-p312n.m3u8
-Travel XP
-https://joy.web-media.edge-apps.net/hls/hp6dm-89cho-6n1l-5f64l.m3u8
-NatGeo
-https://joy.web-media.edge-apps.net/hls/o6mj8-i7n93-67ej8-712ao.m3u8
-Love Nature
-https://joy.web-media.edge-apps.net/hls/f2ljo-jb10f-fjjfe-622fg.m3u8
-Discovery TLC
-https://joy.web-media.edge-apps.net/hls/feo4p-6m8di-39pf4-j1h25.m3u8
-Gusto TV
-https://joy.web-media.edge-apps.net/hls/jp51l-235gf-a6d71-e522k.m3u8
-SUN Channel
-https://joy.web-media.edge-apps.net/hls/7oj3g-cdej2-kl131-b7hd8.m3u8
-Encunetro
-https://joy.web-media.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk.m3u8
+#EXTINF:0 tvg-id="HOLA TV.ar" tvg-name="HOLA TV" CUID="79" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345815/asgjcf2jzh98oxnxkqx9.png" group-title="Argentina TV",HOLA TV
+https://joy.nx-pc.edge-apps.net/hls/cl7lf-54530-2egee-p14da.m3u8
+#EXTINF:0 tvg-id="MAS CHIC.ar" tvg-name="MAS CHIC" CUID="80" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346112/bkkh1cckle09ey0yqvyx.png" group-title="Argentina TV",MAS CHIC
+https://joy.nx-pc.edge-apps.net/hls/f9em3-fn7h4-a75fc-c056h.m3u8
+#EXTINF:0 tvg-id="EL GOURMET.ar" tvg-name="EL GOURMET" CUID="81" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343608/ywvhapelbx9i9pv9y9bu.png" group-title="Argentina TV",EL GOURMET
+https://joy.nx-pc.edge-apps.net/hls/hhdd2-k3ik5-m2ha3-1b8pb.m3u8
+#EXTINF:0 tvg-id="DISCOVERY HOME&HEALTH.ar" tvg-name="DISCOVERY HOME&HEALTH" CUID="82" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344394/cq5nr0zp7kdh1mdi2mrv.png" group-title="Argentina TV",DISCOVERY HOME&HEALTH
+https://joy.nx-pc.edge-apps.net/hls/5ea6f-88j6g-p7811-p312n.m3u8
+#EXTINF:0 tvg-id="TRAVEL XP.ar" tvg-name="TRAVEL XP" CUID="83" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684347549/lh2ojz3jqohgkhbdmpkf.png" group-title="Argentina TV",TRAVEL XP
+https://joy.nx-pc.edge-apps.net/hls/hp6dm-89cho-6n1l-5f64l.m3u8
+#EXTINF:0 tvg-id="NATGEO.ar" tvg-name="NATGEO" CUID="84" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344660/ljfeibwcia0jp57u8v1a.png" group-title="Argentina TV",NATGEO
+https://nx.pc-media.edge-apps.net/hls/o6mj8-i7n93-67ej8-712ao.m3u8
+#EXTINF:0 tvg-id="LOVE NATURE.ar" tvg-name="LOVE NATURE" CUID="85" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345917/n2qqptz2k27lp759s2it.png" group-title="Argentina TV",LOVE NATURE
+https://joy.nx-pc.edge-apps.net/hls/f2ljo-jb10f-fjjfe-622fg.m3u8
+#EXTINF:0 tvg-id="DISCOVERY TLC.ar" tvg-name="DISCOVERY TLC" CUID="86" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1749408442/tgphkhbrgddkeznerscl.png" group-title="Argentina TV",DISCOVERY TLC
+https://joy.nx-pc.edge-apps.net/hls/feo4p-6m8di-39pf4-j1h25.m3u8
+#EXTINF:0 tvg-id="GUSTO TV.ar" tvg-name="GUSTO TV" CUID="87" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1750688691/xi9rhjpxp1pqiokwfqqd.png" group-title="Argentina TV",GUSTO TV
+https://joy.nx-pc.edge-apps.net/hls/jp51l-235gf-a6d71-e522k.m3u8
+#EXTINF:0 tvg-id="SUN CHANNEL.ar" tvg-name="SUN CHANNEL" CUID="88" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1750353395/zjn2noajhrjd7ggxv31l.webp" group-title="Argentina TV",SUN CHANNEL
+https://joy.nx-pc.edge-apps.net/hls/7oj3g-cdej2-kl131-b7hd8.m3u8
+#EXTINF:0 tvg-id="ENCUENTRO.ar" tvg-name="ENCUENTRO" CUID="89" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346279/zzju24oya4wvydk1rixe.png" group-title="Argentina TV",ENCUENTRO
+https://joy.nx-pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk.m3u8
 Canal A
 https://joy.web-media.edge-apps.net/hls/k0eh2-j12j2-35nn-1dmde.m3u8
 Canal Rural
