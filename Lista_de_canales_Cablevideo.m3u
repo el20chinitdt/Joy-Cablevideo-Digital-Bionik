@@ -174,48 +174,49 @@ https://joy.nx-pc.edge-apps.net/hls/jp51l-235gf-a6d71-e522k.m3u8
 https://joy.nx-pc.edge-apps.net/hls/7oj3g-cdej2-kl131-b7hd8.m3u8
 #EXTINF:0 tvg-id="ENCUENTRO.ar" tvg-name="ENCUENTRO" CUID="89" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346279/zzju24oya4wvydk1rixe.png" group-title="Argentina TV",ENCUENTRO
 https://joy.nx-pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk.m3u8
-Canal A
-https://joy.web-media.edge-apps.net/hls/k0eh2-j12j2-35nn-1dmde.m3u8
-Canal Rural
-https://joy.web-media.edge-apps.net/hls/465a1-enb61-ad17j-55bp2.m3u8
-CNN Español
-https://joy.web-media.edge-apps.net/hls/d0l95-h7jlf-ilii6-4e3g9.m3u8
-Euronews
-https://joy.web-media.edge-apps.net/hls/eo5mp-m89lb-e57f0-kpkkd.m3u8
-DW
-https://joy.web-media.edge-apps.net/hls/57gjj-j2867-pfa7f-d52jp.m3u8
-Rai Italia
-https://joy.web-media.edge-apps.net/hls/pblci-34e1c-fgf30-h25ib.m3u8
-TVE
-https://joy.web-media.edge-apps.net/hls/bc91i-kj0of-4eh3g-hlfn1.m3u8
-Canal 24h TVE
-https://joy.web-media.edge-apps.net/hls/h7m22-llhbf-mkh78-f4eo6.m3u8
-DNews
-https://joy.web-media.edge-apps.net/hls/cp9g2-5ok8b-g99na-o15il.m3u8
-RT
-https://joy.web-media.edge-apps.net/hls/1pf1o-l8fhp-a55hc-1j09k.m3u8
-CM
-https://joy.web-media.edge-apps.net/hls/i7gnj-ipp8m-bc68e-ad3hd.m3u8
-HTV
-https://joy.web-media.edge-apps.net/hls/l4b0l-njg9j-4ic97-4c15b.m3u8
-Quiero Musica
-https://joy.web-media.edge-apps.net/hls/3la6l-e802j-1ekem-6k9o6.m3u8
-Radio Power Max
-https://joy.web-media.edge-apps.net/hls/mp8nj-mhh72-7apb0-81bp4.m3u8
-Nacional AM 870
-https://ice3.edge-apps.net/joy-radios/am870/playlist.m3u8
-Radio Nacional Clasica
-https://ice3.edge-apps.net/joy-radios/clasica/playlist.m3u8
-Radio Nacional Folklorica
+#EXTINF:0 tvg-id="CANAL A.ar" tvg-name="CANAL A" CUID="90" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684348098/nvcumj4q8bkqiryclisr.png" group-title="Argentina TV",CANAL A
+https://joy.nx-pc.edge-apps.net/hls/k0eh2-j12j2-35nn-1dmde.m3u8
+#EXTINF:0 tvg-id="CANAL RURAL.ar" tvg-name="CANAL RURAL" CUID="91" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344744/pqumpg7ubdiyzmozdwsr.png" group-title="Argentina TV",CANAL RURAL
+https://joy.nx-pc.edge-apps.net/hls/465a1-enb61-ad17j-55bp2.m3u8
+#EXTINF:0 tvg-id="CNN EN ESPAÑOL.ar" tvg-name="CNN EN ESPAÑOL" CUID="92" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343477/jpaigp1p0weik0s8red0.png" group-title="Argentina TV",CNN EN ESPAÑOL
+https://joy.nx-pc.edge-apps.net/hls/d0l95-h7jlf-ilii6-4e3g9.m3u8
+#EXTINF:0 tvg-id="EURONEWS.ar" tvg-name="EURONEWS" CUID="93" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345964/f7zdzojarsngu4fqqlsk.png" group-title="Argentina TV",EURONEWS
+https://joy.nx-pc.edge-apps.net/hls/eo5mp-m89lb-e57f0-kpkkd.m3u8
+#EXTINF:0 tvg-id="DW.ar" tvg-name="DW" CUID="94" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345941/g93i18rqzqekt6g2an5x.png" group-title="Argentina TV",DW
+https://joy.nx-pc.edge-apps.net/hls/57gjj-j2867-pfa7f-d52jp.m3u8
+#EXTINF:0 tvg-id="RAI ITALIA.ar" tvg-name="RAI ITALIA" CUID="95" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344717/pcsili7bymriuh3ohuvu.png" group-title="Argentina TV",RAI ITALIA
+https://joy.nx-pc.edge-apps.net/hls/pblci-34e1c-fgf30-h25ib.m3u8
+#EXTINF:0 tvg-id="TVE.ar" tvg-name="TVE" CUID="96" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345221/qa3wlkvpshquf7q4co8a.png" group-title="Argentina TV",TVE
+https://joy.nx-pc.edge-apps.net/hls/bc91i-kj0of-4eh3g-hlfn1.m3u8
+#EXTINF:0 tvg-id="CANAL 24H.ar" tvg-name="CANAL 24H" CUID="97" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684348695/ygs1l09aiaxf4ygejvxl.png" group-title="Argentina TV",CANAL 24H
+https://joy.nx-pc.edge-apps.net/hls/h7m22-llhbf-mkh78-f4eo6.m3u8
+#EXTINF:0 tvg-id="DNEWS.ar" tvg-name="DNEWS" CUID="98" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1737634193/xgs69thn3o5y3d9r9mzr.png" group-title="Argentina TV",DNEWS
+https://joy.nx-pc.edge-apps.net/hls/cp9g2-5ok8b-g99na-o15il.m3u8
+#EXTINF:0 tvg-id="DNEWS.ar" tvg-name="DNEWS" CUID="99" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1737634193/xgs69thn3o5y3d9r9mzr.png" group-title="Argentina TV",DNEWS
+https://joy.nx-pc.edge-apps.net/hls/1pf1o-l8fhp-a55hc-1j09k.m3u8
+#EXTINF:0 tvg-id="CM.ar" tvg-name="CM" CUID="100" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344575/yd4t3x3rbewslfiypwdp.png" group-title="Argentina TV",CM
+https://joy.nx-pc.edge-apps.net/hls/i7gnj-ipp8m-bc68e-ad3hd.m3u8
+#EXTINF:0 tvg-id="HTV.ar" tvg-name="HTV" CUID="101" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346215/v83epbwjwd9o2fspi3ud.png" group-title="Argentina TV",HTV
+https://joy.nx-pc.edge-apps.net/hls/l4b0l-njg9j-4ic97-4c15b.m3u8
+#EXTINF:0 tvg-id="QUIERO MUSICA EN MI IDIOMA.ar" tvg-name="QUIERO MUSICA EN MI IDIOMA" CUID="102" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346240/iva94ooqr6f8kvptmgmr.png" group-title="Argentina TV",QUIERO MUSICA EN MI IDIOMA
+https://joy.nx-pc.edge-apps.net/hls/3la6l-e802j-1ekem-6k9o6.m3u8
+#EXTINF:0 tvg-id="RADIO NACIONAL FOLKLORICA.ar" tvg-name="RADIO NACIONAL FOLKLORICA" CUID="106" tvg-logo="https://res.cloudinary.com/doj39auqi/image/upload/v1716504959/radios/appJOY/Logo_NacionalFolklorica_ixubqd.png" group-title="Argentina TV",RADIO NACIONAL FOLKLORICA
 https://ice3.edge-apps.net/joy-radios/folklorica/playlist.m3u8
-Radio Nacional Rock
+#EXTINF:0 tvg-id="RADIO POWER MAX.ar" tvg-name="RADIO POWER MAX" CUID="103" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346010/b6kr0ffmk2j8e1pkswsv.png" group-title="Argentina TV",RADIO POWER MAX
+https://joy.nx-pc.edge-apps.net/hls/mp8nj-mhh72-7apb0-81bp4.m3u8
+#EXTINF:0 tvg-id="RADIO NACIONAL FOLKLORICA.ar" tvg-name="RADIO NACIONAL FOLKLORICA" CUID="106" tvg-logo="https://res.cloudinary.com/doj39auqi/image/upload/v1716504959/radios/appJOY/Logo_NacionalFolklorica_ixubqd.png" group-title="Argentina TV",RADIO NACIONAL FOLKLORICA
+https://ice3.edge-apps.net/joy-radios/folklorica/playlist.m3u8
+#EXTINF:0 tvg-id="RADIO NACIONAL ROCK.ar" tvg-name="RADIO NACIONAL ROCK" CUID="107" tvg-logo="https://res.cloudinary.com/doj39auqi/image/upload/v1716511459/radios/appJOY/Logo_NacionalRock_hnhjgz.png" group-title="Argentina TV",RADIO NACIONAL ROCK
 https://ice3.edge-apps.net/joy-radios/rocknacional/playlist.m3u8
-Radio Voterix
+#EXTINF:0 tvg-id="RADIO VORTERIX.ar" tvg-name="RADIO VORTERIX" CUID="108" tvg-logo="https://res.cloudinary.com/doj39auqi/image/upload/v1714824281/radios/vorterix_jpupkx.png" group-title="Argentina TV",RADIO VORTERIX
 https://prepublish.f.qaotic.net/a08/ngrp:vorterix_video1-20057_all/Playlist.m3u8
-User-Agent: Mozilla/5.0 (Linux; Android 8.0.0; Pixel2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-Radio 2 Roasrio
+#EXTINF:0 tvg-id="RADIO 2 ROSARIO.ar" tvg-name="RADIO 2 ROSARIO" CUID="109" tvg-logo="https://res.cloudinary.com/doj39auqi/image/upload/v1716511233/radios/appJOY/Logo_Radio2_hz2fih.png" group-title="Argentina TV",RADIO 2 ROSARIO
 https://ice3.edge-apps.net/joy-radios/radio2/playlist.m3u8
-FM Vida Rosario
+#EXTINF:0 tvg-id="FM VIDA ROSARIO.ar" tvg-name="FM VIDA ROSARIO" CUID="110" tvg-logo="https://res.cloudinary.com/doj39auqi/image/upload/v1716504884/radios/appJOY/Logo_FmVida_oftcf9.png" group-title="Argentina TV",FM VIDA ROSARIO
 https://ice3.edge-apps.net/joy-radios/fmvida/playlist.m3u8
-Radio Plus Rosario
-https://ice3.edge-apps.net/joy-radios/frecuencia_plus/chunks.m3u8
+#EXTINF:0 tvg-id="NACIONAL AM870.ar" tvg-name="NACIONAL AM870" CUID="104" tvg-logo="https://res.cloudinary.com/doj39auqi/image/upload/v1716511414/radios/appJOY/Logo_AM870_kyslsa.png" group-title="Argentina TV",NACIONAL AM870
+https://ice3.edge-apps.net/joy-radios/am870/playlist.m3u8
+#EXTINF:0 tvg-id="RADIO NACIONAL CLASICA.ar" tvg-name="RADIO NACIONAL CLASICA" CUID="105" tvg-logo="https://res.cloudinary.com/doj39auqi/image/upload/v1716504906/radios/appJOY/Logo_NacionalClasica_urqkxf.png" group-title="Argentina TV",RADIO NACIONAL CLASICA
+https://ice3.edge-apps.net/joy-radios/clasica/playlist.m3u8
+#EXTINF:0 tvg-id="FM PLUS ROSARIO.ar" tvg-name="FM PLUS ROSARIO" CUID="111" tvg-logo="https://res.cloudinary.com/doj39auqi/image/upload/v1714824501/radios/logo_fmplus_br21jy.png" group-title="Argentina TV",FM PLUS ROSARIO
+https://ice3.edge-apps.net/joy-radios/frecuencia_plus/playlist.m3u8
